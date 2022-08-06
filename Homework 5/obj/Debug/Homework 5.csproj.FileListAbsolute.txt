@@ -1,0 +1,8 @@
+E:\Programming\C#\Lesson1\Homework 5\bin\Debug\Homework 5.exe.config
+E:\Programming\C#\Lesson1\Homework 5\bin\Debug\Homework 5.exe
+E:\Programming\C#\Lesson1\Homework 5\bin\Debug\Homework 5.pdb
+E:\Programming\C#\Lesson1\Homework 5\obj\Debug\Homework 5.csproj.AssemblyReference.cache
+E:\Programming\C#\Lesson1\Homework 5\obj\Debug\Homework 5.csproj.SuggestedBindingRedirects.cache
+E:\Programming\C#\Lesson1\Homework 5\obj\Debug\Homework 5.csproj.CoreCompileInputs.cache
+E:\Programming\C#\Lesson1\Homework 5\obj\Debug\Homework 5.exe
+E:\Programming\C#\Lesson1\Homework 5\obj\Debug\Homework 5.pdb
