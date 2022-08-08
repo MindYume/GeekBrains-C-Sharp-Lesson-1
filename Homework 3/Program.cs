@@ -19,6 +19,8 @@ namespace Homework_3
     {
         static void Main(string[] args)
         {
+            
+
             double x1 = double.Parse(askInfo("Enter x1: "));
             double y1 = double.Parse(askInfo("Enter y1: "));
             double x2 = double.Parse(askInfo("Enter x2: "));
@@ -26,7 +28,7 @@ namespace Homework_3
 
             double distamce = calDistance(x1, y1, x2, y2);
 
-            Console.WriteLine($"\nDistance: {distamce}");
+            Console.WriteLine($"\nDistance: {distamce:F2}");
 
             Pause();
         }
